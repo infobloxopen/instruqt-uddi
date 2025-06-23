@@ -93,16 +93,16 @@ Navigate to the Infoblox Portal.
 From the top navigation menu, go to:
 Configure → Networking → Discovery.
 
-![Screenshot 2025-04-01 at 14.48.39.png](../assets/Screenshot%202025-04-01%20at%2014.48.39.png)
+![Screenshot 2025-04-01 at 14.48.39.png](https://play.instruqt.com/assets/tracks/ywozzymyekgv/cfc6dc6a631168ae06d7c764a9a801e4/assets/Screenshot%202025-04-01%20at%2014.48.39.png)
 
 
 #### 3. Configure AWS Discovery
 1.	Within the Discovery section, select the Cloud tab.
 2.	Click on Create AWS to begin setting up cloud discovery for AWS.
 
-![Screenshot 2025-04-01 at 14.48.52.png](../assets/Screenshot%202025-04-01%20at%2014.48.52.png)
+![Screenshot 2025-04-01 at 14.48.52.png](https://play.instruqt.com/assets/tracks/ywozzymyekgv/fe1b7255159d83b15197cb94b32acb62/assets/Screenshot%202025-04-01%20at%2014.48.52.png)
 
-![Screenshot 2025-04-01 at 14.49.02.png](../assets/Screenshot%202025-04-01%20at%2014.49.02.png)
+![Screenshot 2025-04-01 at 14.49.02.png](https://play.instruqt.com/assets/tracks/ywozzymyekgv/a9c0812f8d60b1139b442d5408128128/assets/Screenshot%202025-04-01%20at%2014.49.02.png)
 
 NOTE: Gather information from the portal about External ID and Principal ID.
 
@@ -117,42 +117,42 @@ NOTE: Gather information from the portal about External ID and Principal ID.
 > Note: Leave the Account ID unchanged and COPY/PASTE External ID from the Infoblox Portal.
 
 
-![Screenshot 2025-04-02 at 07.31.45.png](../assets/Screenshot%202025-04-02%20at%2007.31.45.png)
+![Screenshot 2025-04-02 at 07.31.45.png](https://play.instruqt.com/assets/tracks/ywozzymyekgv/006976dbb7fd80357a9de266b7fac38f/assets/Screenshot%202025-04-02%20at%2007.31.45.png)
 
 
 #### 7.Click "Next" on each page, keeping all settings at their default values.
 
-![Screenshot 2025-04-02 at 07.32.00.png](../assets/Screenshot%202025-04-02%20at%2007.32.00.png)
+![Screenshot 2025-04-02 at 07.32.00.png](https://play.instruqt.com/assets/tracks/ywozzymyekgv/71731c4542146913684191904516f770/assets/Screenshot%202025-04-02%20at%2007.32.00.png)
 
 #### 8.Click "Submit" on the next page
 
-![Screenshot 2025-04-02 at 07.32.13.png](../assets/Screenshot%202025-04-02%20at%2007.32.13.png)
+![Screenshot 2025-04-02 at 07.32.13.png](https://play.instruqt.com/assets/tracks/ywozzymyekgv/2e75569517648689ca0b3066dcb3ae3a/assets/Screenshot%202025-04-02%20at%2007.32.13.png)
 
 
 #### 9.Wait for the CloudFormation stack creation to complete, then navigate to the "Outputs" tab to retrieve the ARN value.
 
-![Screenshot 2025-04-02 at 07.32.32.png](../assets/Screenshot%202025-04-02%20at%2007.32.32.png)
+![Screenshot 2025-04-02 at 07.32.32.png](https://play.instruqt.com/assets/tracks/ywozzymyekgv/7fee78206bf25f20375773080bc131ab/assets/Screenshot%202025-04-02%20at%2007.32.32.png)
 
-![Screenshot 2025-04-02 at 07.32.54.png](../assets/Screenshot%202025-04-02%20at%2007.32.54.png)
+![Screenshot 2025-04-02 at 07.32.54.png](https://play.instruqt.com/assets/tracks/ywozzymyekgv/8db17c8d0ef84878d624e455488f66eb/assets/Screenshot%202025-04-02%20at%2007.32.54.png)
 
-![Screenshot 2025-04-02 at 07.33.43.png](../assets/Screenshot%202025-04-02%20at%2007.33.43.png)
+![Screenshot 2025-04-02 at 07.33.43.png](https://play.instruqt.com/assets/tracks/ywozzymyekgv/865b2d54d8605e47fcd41dfe771206b0/assets/Screenshot%202025-04-02%20at%2007.33.43.png)
 
 
 #### 10.Return to the Infoblox Portal where you initiated the AWS Discovery Job, paste the retrieved ARN value into the appropriate field, and click "Next" to proceed.
 
-![Screenshot 2025-04-02 at 07.34.15.png](../assets/Screenshot%202025-04-02%20at%2007.34.15.png)
+![Screenshot 2025-04-02 at 07.34.15.png](https://play.instruqt.com/assets/tracks/ywozzymyekgv/343c6524235311f03e50805911807fdf/assets/Screenshot%202025-04-02%20at%2007.34.15.png)
 
 #### 11.On the next page, configure the settings to match those shown in the screenshot below, then click "Next" to continue.
 
-![Screenshot 2025-04-02 at 07.34.23.png](../assets/Screenshot%202025-04-02%20at%2007.34.23.png)
+![Screenshot 2025-04-02 at 07.34.23.png](https://play.instruqt.com/assets/tracks/ywozzymyekgv/f331a4ac1d859b913b6096a122e829eb/assets/Screenshot%202025-04-02%20at%2007.34.23.png)
 
 #### 12.On the next page, configure the settings to match those shown in the screenshot below, then click "Next" to continue.
 
-![Screenshot 2025-04-02 at 07.35.04.png](../assets/Screenshot%202025-04-02%20at%2007.35.04.png)
+![Screenshot 2025-04-02 at 07.35.04.png](https://play.instruqt.com/assets/tracks/ywozzymyekgv/1124b98959bf1a9a3c58d0b8b440aabe/assets/Screenshot%202025-04-02%20at%2007.35.04.png)
 
 #### 13.On the next page, configure the settings to match those shown in the screenshot below, then click "Save&Close" to continue.
 
-![Screenshot 2025-04-02 at 07.35.12.png](../assets/Screenshot%202025-04-02%20at%2007.35.12.png)
+![Screenshot 2025-04-02 at 07.35.12.png](https://play.instruqt.com/assets/tracks/ywozzymyekgv/2e4b1289d89ffef13e65fe28f151410d/assets/Screenshot%202025-04-02%20at%2007.35.12.png)
 
 
 
@@ -178,11 +178,11 @@ A NIOS-X Server can directly respond to DNS queries from clients for private zon
 
 #### 1. Navigate to the Infoblox Portal and go to Configure → Administrator → Credentials.
 
-![Screenshot 2025-04-02 at 21.47.14.png](../assets/Screenshot%202025-04-02%20at%2021.47.14.png)
+![Screenshot 2025-04-02 at 21.47.14.png](https://play.instruqt.com/assets/tracks/ywozzymyekgv/f1ba860ea63974329f57911a5bbcad83/assets/Screenshot%202025-04-02%20at%2021.47.14.png)
 
 #### 2. Click Create and select Microsoft Azure from the dropdown menu.
 
-![Screenshot 2025-04-02 at 21.47.48.png](../assets/Screenshot%202025-04-02%20at%2021.47.48.png)
+![Screenshot 2025-04-02 at 21.47.48.png](https://play.instruqt.com/assets/tracks/ywozzymyekgv/1b8e062242f5ed8318d4aceaa3e9847b/assets/Screenshot%202025-04-02%20at%2021.47.48.png)
 
 
 
@@ -223,7 +223,7 @@ Configure → Networking → Discovery.
 
 #### 6. Fill in all required fields marked with an asterisk (*) using the details provided below.
 
-![Screenshot 2025-04-02 at 22.01.10.png](../assets/Screenshot%202025-04-02%20at%2022.01.10.png)
+![Screenshot 2025-04-02 at 22.01.10.png](https://play.instruqt.com/assets/tracks/ywozzymyekgv/6cbc9dd38a1dc014d2ddb8ed7df4ac4f/assets/Screenshot%202025-04-02%20at%2022.01.10.png)
 
 > [!IMPORTANT]
 > Please give it a name and Select "Type of Access" -> Static ------->  under" Credentials" select the one you have created in the previous step.
@@ -237,12 +237,12 @@ Azure subscription id can be found below.
 
 #### 7.On the next page, configure the settings to match those shown in the screenshot below, then click "Next" to continue.
 
-![Screenshot 2025-04-02 at 22.09.04.png](../assets/Screenshot%202025-04-02%20at%2022.09.04.png)
+![Screenshot 2025-04-02 at 22.09.04.png](https://play.instruqt.com/assets/tracks/ywozzymyekgv/098541c13a407a9df0da2581d6f2970b/assets/Screenshot%202025-04-02%20at%2022.09.04.png)
 
 #### 8.On the next page, configure the settings to match those shown in the screenshot below, then click "Next" to continue.
 
-![Screenshot 2025-04-02 at 22.10.42.png](../assets/Screenshot%202025-04-02%20at%2022.10.42.png)
+![Screenshot 2025-04-02 at 22.10.42.png](https://play.instruqt.com/assets/tracks/ywozzymyekgv/6b6c728e758842db9ca7325b6a5cad7b/assets/Screenshot%202025-04-02%20at%2022.10.42.png)
 
 #### 9.On the next page, configure the settings to match those shown in the screenshot below, then click "Save&Close" to continue.
 
-![Screenshot 2025-04-02 at 22.11.18.png](../assets/Screenshot%202025-04-02%20at%2022.11.18.png)
+![Screenshot 2025-04-02 at 22.11.18.png](https://play.instruqt.com/assets/tracks/ywozzymyekgv/51b0aaef0a1de4b8cdba1bf96735eb2a/assets/Screenshot%202025-04-02%20at%2022.11.18.png)
