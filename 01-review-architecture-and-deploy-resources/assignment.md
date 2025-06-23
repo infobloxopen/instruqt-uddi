@@ -172,13 +172,13 @@ Your user account and sandbox have already been created. The next step is to set
 
 4. A new browser window or tab will open, prompting you to create a new password. Please enter your desired password to complete the setup.
 
-![Screenshot 2025-04-01 at 11.19.01.png](../assets/Screenshot%202025-04-01%20at%2011.19.01.png)
+![Screenshot 2025-04-01 at 11.19.01.png](https://play.instruqt.com/assets/tracks/ywozzymyekgv/0fd5315d47a283fce641de81b289ac64/assets/Screenshot%202025-04-01%20at%2011.19.01.png)
 
 5. Once you’ve set your password, close the newly opened tab or window. We’ll be logging in through the Instruqt tab labeled "Infoblox Portal".
 6. In the Instruqt tab labeled "Infoblox Portal", log in using the credentials you set up in the previous steps.
 7. After logging in, please mark the first window as shown in the example below. This confirms that you have successfully accessed the Infoblox Portal.
 
-![Screenshot 2025-04-01 at 11.01.03.png](../assets/Screenshot%202025-04-01%20at%2011.01.03.png)
+![Screenshot 2025-04-01 at 11.01.03.png](https://play.instruqt.com/assets/tracks/ywozzymyekgv/a082b5c7276e1c2e27eaaf7bee832089/assets/Screenshot%202025-04-01%20at%2011.01.03.png)
 
 7. In the upper-left corner of the Infoblox Portal, click on the drop-down menu. Use the “Find Account” field to search for your sandbox by entering the "Sandbox-ID" shown below. It is important that you select your specific Sandbox-ID from the list and click on it to proceed.
 
@@ -190,7 +190,7 @@ Your user account and sandbox have already been created. The next step is to set
 ---
 
 
-![Screenshot 2025-04-01 at 11.03.20.png](../assets/Screenshot%202025-04-01%20at%2011.03.20.png)
+![Screenshot 2025-04-01 at 11.03.20.png](https://play.instruqt.com/assets/tracks/ywozzymyekgv/bdbf322902db478154c3fece79237f86/assets/Screenshot%202025-04-01%20at%2011.03.20.png)
 
 ---
 
@@ -199,15 +199,15 @@ Your user account and sandbox have already been created. The next step is to set
 1. Please navigate to the Infoblox Portal page by clicking on the Infoblox Portal tab within the Instruqt lab environment. This will direct you to the appropriate login interface.
 2. Once you’re on the Infoblox Portal page, click on “Need Assistance” located at the bottom of the login form.
 
-![Screenshot 2025-04-01 at 10.52.47.png](../assets/Screenshot%202025-04-01%20at%2010.52.47.png)
+![Screenshot 2025-04-01 at 10.52.47.png](https://play.instruqt.com/assets/tracks/ywozzymyekgv/0bacd7dc4193c2770df54b65c7eceb3a/assets/Screenshot%202025-04-01%20at%2010.52.47.png)
 
 3. After clicking on “Need Assistance”, select “Forgot Password” from the available options to initiate the password reset process.
 
-![Screenshot 2025-04-01 at 10.52.57.png](../assets/Screenshot%202025-04-01%20at%2010.52.57.png)
+![Screenshot 2025-04-01 at 10.52.57.png](https://play.instruqt.com/assets/tracks/ywozzymyekgv/3971464a872c428ee8879f3d7287b201/assets/Screenshot%202025-04-01%20at%2010.52.57.png)
 
 4. You will receive an email with the subject “Account Password Reset.” Open this email and click on the “Reset Password” button to proceed with setting a new password.
 
-![Screenshot 2025-04-01 at 11.42.21.png](../assets/Screenshot%202025-04-01%20at%2011.42.21.png)
+![Screenshot 2025-04-01 at 11.42.21.png](https://play.instruqt.com/assets/tracks/ywozzymyekgv/263657baa43cefce4e8fc2062d2371f1/assets/Screenshot%202025-04-01%20at%2011.42.21.png)
 
 5. Once you’ve set up your password, please return to "Section 1" of the instructions and continue from Step 4 onward.
 
