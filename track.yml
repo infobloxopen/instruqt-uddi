@@ -1,0 +1,22 @@
+slug: infoblox-lab1
+id: ywozzymyekgv
+title: Infoblox - Universal DNS management Multi-Cloud
+teaser: Infoblox UDDI - Multicloud
+description: |-
+  Universal DNS Management for Consolidated Visibility & Management to
+  Simplify and Streamline Operations
+icon: ./assets/Infoblox-logo-for-email.png
+tags: []
+owner: infoblox
+developers:
+- iracic@infoblox.com
+show_timer: true
+timelimit: 14400
+lab_config:
+  sidebar_enabled: true
+  feedback_recap_enabled: true
+  feedback_tab_enabled: false
+  loadingMessages: true
+  hideStopButton: false
+checksum: "9192815288529508167"
+enhanced_loading: false
