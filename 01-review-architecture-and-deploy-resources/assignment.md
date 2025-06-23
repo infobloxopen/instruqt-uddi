@@ -168,7 +168,7 @@ Your user account and sandbox have already been created. The next step is to set
 1. Please check the inbox of the email account you used to register for the Infoblox Lab.
 2. You will receive an email with the subject “Infoblox User Account Activation.” Open this email and click on the “Activate Account” button to proceed.
 
-![Screenshot 2025-04-01 at 11.15.44.png](../assets/Screenshot%202025-04-01%20at%2011.15.44.png)
+![Screenshot 2025-04-01 at 11.15.44.png](https://play.instruqt.com/assets/tracks/ywozzymyekgv/93d7e021e28c20d105ca34aace35d149/assets/Screenshot%202025-04-01%20at%2011.15.44.png)
 
 4. A new browser window or tab will open, prompting you to create a new password. Please enter your desired password to complete the setup.
 
