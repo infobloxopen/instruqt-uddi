@@ -1,3 +1,5 @@
+![Infoblox Logo](assets/Infoblox-logo-for-email.png)
+
 # Welcome to Infoblox UDDI Lab 🎓
 
 This is an **on-demand learning lab** built to help you get hands-on experience with **Infoblox Universal DNS Management (UDDI)** — a modern, cloud-delivered solution for managing DNS, DHCP, and IPAM across hybrid and multicloud environments.
