@@ -7,7 +7,7 @@ Each student receives a **dedicated sandbox** with:
 - Pre-provisioned infrastructure and cloud-native resources
 - Fully isolated access to run and test each scenario
 
-  ![UDDI Lab Sandbox](assets/Screenshot%202025-04-01%20at%2010.52.47.png)
+  ![UDDI Lab Sandbox](assets/Screenshot 2025-06-23 at 18.01.14.png)
 
 ## 📚 Lab Structure
 
